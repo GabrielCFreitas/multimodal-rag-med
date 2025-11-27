@@ -1,0 +1,7 @@
+processor:
+  model: "google/medsiglip-448"
+  auth_token: 'seu token'
+  root_folder: "../dados/mimic/files"
+
+paths:
+  embeddings: "artifacts/img_embeddings"
