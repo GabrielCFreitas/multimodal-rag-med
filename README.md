@@ -6,7 +6,7 @@
 
 Sistema de Recuperação Aumentada por Geração (RAG) multimodal para busca e análise de casos médicos, combinando imagens radiológicas e relatórios textuais do dataset MIMIC-CXR.
 
-**Projeto desenvolvido para a disciplina IA368 - Deep Learning - Unicamp**
+**Projeto desenvolvido para a disciplina IA368HH - Aprendizado Profundo Avançado - Unicamp**
 
 ## 📋 Índice
 
